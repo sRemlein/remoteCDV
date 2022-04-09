@@ -1,2 +1,2 @@
 pierwsza linia
-drugi wiersz
+drugi wiersz --ok
